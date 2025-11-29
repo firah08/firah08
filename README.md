@@ -62,9 +62,9 @@ Welcome to my GitHub profile — a calm space where I learn, build, and grow.
 ## 📊 GitHub Stats  
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=firah08&show_icons=true&theme=default" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=firah08&show_icons=true&theme=rose_pine" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firah08&layout=compact&theme=default" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firah08&layout=compact&theme=rose_pine" />
 
 </div>
 
