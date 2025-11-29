@@ -62,9 +62,9 @@ Welcome to my GitHub profile — a calm space where I learn, build, and grow.
 ## 📊 GitHub Stats  
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=firah08&show_icons=true&theme=calm_pink&title_color=1A2A4E&icon_color=F4B6C2&text_color=1A2A4E&bg_color=ffffff00" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=firah08&show_icons=true&theme=default" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=calm_pink&title_color=1A2A4E&text_color=1A2A4E&bg_color=ffffff00" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firah08&layout=compact&theme=default" />
 
 </div>
 
@@ -78,3 +78,4 @@ Welcome to my GitHub profile — a calm space where I learn, build, and grow.
 <p align="center" style="color:#1A2A4E;">
 Have a lovely day ✨  
 </p>
+
