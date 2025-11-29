@@ -60,11 +60,9 @@ Welcome to my GitHub profile — a calm space where I learn, build, and grow.
 ---
 
 ## 📊 GitHub Stats  
-*(Replace YOUR_USERNAME with your actual GitHub username)*
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=calm_pink&title_color=1A2A4E&icon_color=F4B6C2&text_color=1A2A4E&bg_color=ffffff00" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=firah08&show_icons=true&theme=calm_pink&title_color=1A2A4E&icon_color=F4B6C2&text_color=1A2A4E&bg_color=ffffff00" />
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=calm_pink&title_color=1A2A4E&text_color=1A2A4E&bg_color=ffffff00" />
 
