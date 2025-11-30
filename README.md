@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 ## About Me
 - Year 1 Business & Financial Technology student at **Nanyang Polytechnic**  
 - Passionate about learning and improving my coding skills  
-- Enjoy creating clean, simple, aesthetic projects  
+- Enjoy creating clean & simple projects  
 - Exploring Python, SQL, HTML, CSS, and beginner-friendly web concepts  
 - Aiming to build strong fundamentals in tech + finance  
 
@@ -65,6 +65,7 @@ Welcome to my GitHub profile!
   </a>
 
 </p>
+---
 
 <div align="center">
   <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-F4B6C2?style=for-the-badge&logo=starship&logoColor=1A2A4E" />
