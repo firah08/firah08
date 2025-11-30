@@ -41,9 +41,33 @@ Welcome to my GitHub profile!
 ---
 
 ## 💌 Connect With Me
+
+<p align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mush-fira-764270343/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-F4B6C2?style=for-the-badge&logo=linkedin&logoColor=1A2A4E" />
+  </a>
+
+  <!-- Website -->
+  <a href="YOUR_WEBSITE_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Website-1A2A4E?style=for-the-badge&logo=googlechrome&logoColor=F4B6C2" />
+  </a>
+
+  <!-- Resume -->
+  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-F4B6C2?style=for-the-badge&logoColor=1A2A4E" />
+  </a>
+
+  <!-- CV -->
+  <a href="YOUR_CV_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/CV-1A2A4E?style=for-the-badge&logoColor=F4B6C2" />
+  </a>
+
+</p>
+
 <div align="center">
-<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-F4B6C2?style=for-the-badge&logo=starship&logoColor=1A2A4E" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-F4B6C2?style=for-the-badge&logo=starship&logoColor=1A2A4E" />
 </div>
 
-<p align="center" style="color:#1A2A4E;"> Have a lovely day ✨  </p>
-
+<p align="center" style="color:#1A2A4E;">Have a lovely day ✨</p>
