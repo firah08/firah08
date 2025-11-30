@@ -40,7 +40,7 @@ Welcome to my GitHub profile!
 
 ---
 
-## 💌 Connect With Me
+## Connect With Me
 
 <p align="center">
 
