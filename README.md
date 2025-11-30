@@ -25,8 +25,8 @@ Welcome to my GitHub profile!
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1A2A4E?style=for-the-badge&logo=python&logoColor=F4B6C2" />
   <img src="https://img.shields.io/badge/HTML-F4B6C2?style=for-the-badge&logo=html5&logoColor=1A2A4E" />
-  <img src="https://img.shields.io/badge/CSS-C7B7A3?style=for-the-badge&logo=css3&logoColor=EDE8D0" />
-  <img src="https://img.shields.io/badge/JavaScript-C7B7A3?style=for-the-badge&logo=javascript&logoColor=EDE8D0" />
+  <img src="https://img.shields.io/badge/CSS-EDE8D0?style=for-the-badge&logo=css3&logoColor=EDE8D0" />
+  <img src="https://img.shields.io/badge/JavaScript-EDE8D0?style=for-the-badge&logo=javascript&logoColor=EDE8D0" />
   <img src="https://img.shields.io/badge/SQL-1A2A4E?style=for-the-badge&logo=mysql&logoColor=F4B6C2" />
   <img src="https://img.shields.io/badge/GitHub-F4B6C2?style=for-the-badge&logo=github&logoColor=1A2A4E" />
 </p>
