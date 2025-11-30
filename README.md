@@ -3,7 +3,7 @@
 <h1 style="color:#1A2A4E;">✨ Hi, I'm <strong style="color:#F4B6C2;">Mushfira</strong> ✨</h1>
 
 <p style="color:#C7B7A3; font-size: 18px;">
-Welcome to my GitHub profile — a calm space where I learn, build, and grow.
+Welcome to my GitHub profile!
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F4B6C2&height=70&section=header&text=Welcome!&fontColor=1A2A4E&fontSize=45" />
@@ -12,17 +12,16 @@ Welcome to my GitHub profile — a calm space where I learn, build, and grow.
 
 ---
 
-## 🌼 About Me
-- 📚 Year 1 Business & Financial Technology student at **Nanyang Polytechnic**  
-- 🌸 Passionate about learning and improving my coding skills  
-- 💭 Enjoy creating clean, simple, aesthetic projects  
-- 🌙 Exploring Python, SQL, HTML, CSS, and beginner-friendly web concepts  
-- 🎯 Aiming to build strong fundamentals in tech + finance  
-- 📍 Based in Singapore  
+## About Me
+- Year 1 Business & Financial Technology student at **Nanyang Polytechnic**  
+- Passionate about learning and improving my coding skills  
+- Enjoy creating clean, simple, aesthetic projects  
+- Exploring Python, SQL, HTML, CSS, and beginner-friendly web concepts  
+- Aiming to build strong fundamentals in tech + finance  
 
 ---
 
-## 🎨 Tech Stack
+## Tech Stack
 <table>
 <tr>
 <td align="center" width="200">
@@ -51,22 +50,11 @@ Welcome to my GitHub profile — a calm space where I learn, build, and grow.
 
 ---
 
-## 🌙 Current Focus
+## Current Focus
 - Strengthening my programming fundamentals  
 - Understanding tech concepts used in finance  
 - Practising SQL & backend basics  
 - Making my projects more organised & aesthetic  
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=firah08&show_icons=true&theme=rose_pine" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=firah08&layout=compact&theme=rose_pine" />
-
-</div>
 
 ---
 
