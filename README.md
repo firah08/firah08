@@ -35,8 +35,7 @@ Welcome to my GitHub profile!
 
 ## Current Focus
 - Strengthening my programming fundamentals  
-- Understanding tech concepts used in finance  
-- Practising SQL & backend basics  
+- Practising SQL, python, flask & jinja2 
 - Making my projects more organised & aesthetic  
 
 ---
@@ -46,7 +45,5 @@ Welcome to my GitHub profile!
 <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-F4B6C2?style=for-the-badge&logo=starship&logoColor=1A2A4E" />
 </div>
 
-<p align="center" style="color:#1A2A4E;">
-Have a lovely day ✨  
-</p>
+<p align="center" style="color:#1A2A4E;"> Have a lovely day ✨  </p>
 
