@@ -13,11 +13,12 @@ Welcome to my GitHub profile!
 ---
 
 ## About Me
-- Year 2 Business & Financial Technology student at **Nanyang Polytechnic**  
-- Passionate about learning and improving my coding skills  
-- Enjoy creating clean & simple projects  
-- Exploring Python, SQL, HTML, CSS, and beginner-friendly web concepts  
-- Aiming to build strong fundamentals in tech + finance  
+- Year 2 Diploma in Business and Financial Technology at Nanyang Polytechnic  
+- Interested in finance, FinTech and how technology is used in the financial world  
+- Still building my coding and technical skills through school and personal learning  
+- Learning Python, SQL, HTML and basic web development  
+- Interested in financial analysis and how data supports business decisions  
+- Currently exploring different areas in finance and tech to see what fits me best 
 
 ---
 
@@ -34,10 +35,10 @@ Welcome to my GitHub profile!
 ---
 
 ## Current Focus
-- Strengthening my programming fundamentals  
-- Practising SQL, python, flask & jinja2 
-- Making my projects more organised & aesthetic  
-
+- Improving programming fundamentals (Python, SQL, web basics)  
+- Understanding how finance systems work in real business use cases  
+- Building small projects to practise what I learn  
+- Getting more confident with problem solving and logic  
 ---
 
 ## Connect With Me
@@ -48,22 +49,6 @@ Welcome to my GitHub profile!
   <a href="https://www.linkedin.com/in/mushfira08" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-F4B6C2?style=for-the-badge&logo=linkedin&logoColor=1A2A4E" />
   </a>
-
-  <!-- Website -->
-  <a href="YOUR_WEBSITE_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Website-1A2A4E?style=for-the-badge&logo=googlechrome&logoColor=F4B6C2" />
-  </a>
-
-  <!-- Resume -->
-  <a href="YOUR_RESUME_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-F4B6C2?style=for-the-badge&logoColor=1A2A4E" />
-  </a>
-
-  <!-- CV -->
-  <a href="YOUR_CV_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/CV-1A2A4E?style=for-the-badge&logoColor=F4B6C2" />
-  </a>
-
 </p>
 
 <div align="center">
