@@ -3,7 +3,7 @@
 <h1 style="color:#1A2A4E;">✨ Hi, I'm <strong style="color:#F4B6C2;">Mushfira</strong> ✨</h1>
 
 <p style="color:#C7B7A3; font-size: 18px;">
-Welcome to my GitHub profile!
+Business & Financial Technology student | Learning to build better systems through tech and finance
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F4B6C2&height=70&section=header&text=Welcome!&fontColor=1A2A4E&fontSize=45" />
