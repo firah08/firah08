@@ -45,7 +45,7 @@ Welcome to my GitHub profile!
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="www.linkedin.com/in/mushfira08" target="_blank">
+  <a href="[www.linkedin.com/in/mushfira08](https://www.linkedin.com/in/mushfira08/?skipRedirect=true)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-F4B6C2?style=for-the-badge&logo=linkedin&logoColor=1A2A4E" />
   </a>
 
