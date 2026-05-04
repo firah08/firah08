@@ -13,7 +13,7 @@ Welcome to my GitHub profile!
 ---
 
 ## About Me
-- Year 1 Business & Financial Technology student at **Nanyang Polytechnic**  
+- Year 2 Business & Financial Technology student at **Nanyang Polytechnic**  
 - Passionate about learning and improving my coding skills  
 - Enjoy creating clean & simple projects  
 - Exploring Python, SQL, HTML, CSS, and beginner-friendly web concepts  
@@ -45,7 +45,7 @@ Welcome to my GitHub profile!
 <p align="center">
 
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/mush-fira-764270343/" target="_blank">
+  <a href="www.linkedin.com/in/mushfira08" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-F4B6C2?style=for-the-badge&logo=linkedin&logoColor=1A2A4E" />
   </a>
 
